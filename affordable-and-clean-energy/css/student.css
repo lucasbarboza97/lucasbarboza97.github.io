@@ -1,0 +1,29 @@
+
+.dolphin {
+    display: flex;
+    align-items: center;
+
+    height: 90%;
+    margin-left: 50px;
+}
+
+img {
+    width: 16em;
+    height: 16em;
+}
+
+
+.students {
+    font-size: 18px;
+    margin: 0 20px;
+    font-weight: 700;
+}
+
+.button {
+   width: 30px;
+   height: 30px;
+}
+
+.student {
+    padding: 10px 10px;
+}

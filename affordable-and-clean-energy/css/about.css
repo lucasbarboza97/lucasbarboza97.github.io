@@ -1,0 +1,39 @@
+.information{
+    margin: 50px 50px;
+}
+
+.energys{
+    text-align: center;
+    margin: 80px 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 50px;
+}
+
+.energy{
+    background-color: #FBC412;
+    border-radius: 50px;
+}
+
+.text-energy{
+
+    text-align: center;
+    color: #7a7a7a;
+
+}
+.title-energy{
+
+    text-align: center;
+    color: #ce625e;
+    font-weight: 700;
+
+}
+
+.img-energy{
+    margin: 10px 10px;
+}
+
+.button-energy{
+    margin: 10px 10px;
+
+}

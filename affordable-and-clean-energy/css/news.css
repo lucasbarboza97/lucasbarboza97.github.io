@@ -1,0 +1,25 @@
+.building{
+    position:absolute;
+    
+    left:37%;
+    top:50%;
+    
+    width: max-content;
+    
+    margin-left:-110px;
+    margin-top:-120px;
+
+}
+
+.body{
+    background-color:#000000;
+
+}
+
+a:hover{
+    color:#b4b4b4;
+}
+
+.more-info{
+    background: black;
+}

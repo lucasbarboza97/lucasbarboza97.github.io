@@ -1,0 +1,13 @@
+.goals {
+    font-size: 20px;
+    margin: 0 80px;
+    color: rgb(116, 116, 116);
+}
+
+.goal {
+    padding: 10px 10px;
+}
+.title {
+    text-align: center;
+    margin-top: 0px;
+}
