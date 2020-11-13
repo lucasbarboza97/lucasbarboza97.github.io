@@ -1,0 +1,27 @@
+.text-energys {
+    margin-top: 80px;
+}
+
+
+.title {
+    text-align: center;
+    color: #FBC412;
+}
+
+.dolphin-energys{
+    text-align: justify;
+    margin: 50px 50px;
+    font-size: 20px;
+    color: rgb(116, 116, 116);
+    padding: 10px 10px;
+}
+
+.list-energy{
+    margin-top: 20px;
+}
+
+.title-text-energy{
+    margin: 30px 30px;
+    color: rgb(80, 80, 80);
+    font-weight: 700;
+}
