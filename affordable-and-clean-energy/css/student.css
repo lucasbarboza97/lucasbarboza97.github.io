@@ -27,3 +27,7 @@ img {
 .student {
     padding: 10px 10px;
 }
+form {
+    margin-left: 35px;
+    float: right;
+}
