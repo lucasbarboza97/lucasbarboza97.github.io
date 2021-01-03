@@ -1,0 +1,67 @@
+.star {
+    width: 1.3em;
+    height: 1.3em;
+}
+
+.comentarios {
+    margin-left: 2em;
+}
+
+.input-nome {
+    width: 90%;
+    border: 1px solid grey;
+    border-radius: 4px;
+    height: 30px;
+}
+
+.input-comentario {
+    width: 90%;
+    height: 70px;
+    border-radius: 4px;
+    border: 1px solid grey;
+}
+
+.titulos {
+    color: #1179db;
+    font-size: 20px;
+}
+
+.table {
+    display: table;
+}
+
+.th {
+    color: #1179db;
+    font-size: 20px;
+    padding-top: 18px;
+    padding-right: 35px;
+}
+
+.submit {
+    display: flex;
+    margin-left: auto;
+    margin-right: 80px;
+    margin-bottom: 134px;
+    color: white;
+    background: #FBC412;
+    border: none;
+    height: 35px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.divA {
+    position: relative;
+    border-width: 2px;
+    width: 45%;
+    left: 0px;
+    float: left;
+}
+
+.divB {
+    position: relative;
+    border-width: 2px;
+    width: 45%;
+    float: left;
+}
+

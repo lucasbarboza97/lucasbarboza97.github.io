@@ -23,11 +23,17 @@ img {
    width: 30px;
    height: 30px;
 }
+.button:hover {
+    background-color: #888888;
+    border-radius: 80%;
+}
 
 .student {
     padding: 10px 10px;
 }
+
 form {
     margin-left: 35px;
     float: right;
 }
+
